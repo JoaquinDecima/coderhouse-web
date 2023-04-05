@@ -45,5 +45,3 @@ menu:
 
 comments: false
 ---
-
-A continuación podrás encontrar un listado de links que podrían llegar a ser de tu interés. Entre ellos encontraremos canales de contactos y comunidades en las que participo activamente y recomiendo por su calidez.
