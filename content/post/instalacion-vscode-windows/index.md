@@ -13,7 +13,6 @@ categories = [
     "windows",
 ]
 series = ["Windows", "Guia"]
-aliases = ["migrate-from-jekyl"]
 image = "https://i.postimg.cc/G3YY822C/win10vscode.png"
 +++
 
