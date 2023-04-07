@@ -21,7 +21,7 @@ image = "https://cdn.osxdaily.com/wp-content/uploads/2022/12/homebrew-ventura-ma
 
 ## Video
 
-<iframe class="yt-video" width="816" height="459" src="https://www.youtube.com/embed/5lMSYgKbZUc" title="Instalar Homebrew en MacOS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube id="5lMSYgKbZUc" >}}
 
 ## Comandos
 

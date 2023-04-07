@@ -20,7 +20,7 @@ image = "https://i.postimg.cc/4dwcTKQ5/tsvsjs.png"
 
 ## Video
 
-<iframe class="yt-video" width="816" height="459" src="https://www.youtube.com/embed/2mXT2VKqhgQ" title="¿Que es TypeScript? ¿En que se parece a JavaScript?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube id="2mXT2VKqhgQ" >}}
 
 ## Principales diferencias
 

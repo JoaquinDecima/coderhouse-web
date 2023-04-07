@@ -23,7 +23,7 @@ Hoy vamos a ver como realizar la instalación de **NodeJS** de una forma muy sim
 
 Para que puedas seguirlo paso a paso dejo el video a continuación:
 
-<iframe class="yt-video" width="816" height="459" src="https://www.youtube.com/embed/3WT-dPSifOw" title="Instalar NodeJS en Windows (winget)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube id="3WT-dPSifOw" >}}
 
 El comando utilizado para esta ocasión es el que dejaré a continuación. En caso de querer pegar en la terminal de windows se suele hacer con ctrl+v sino podes utilizar el mouse con click derecho -> pegar dependiendo de tu terminal:
 

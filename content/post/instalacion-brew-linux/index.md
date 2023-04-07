@@ -19,7 +19,7 @@ Muchas veces tenemos que instalar dependencias o paquetes y en nuestros reposito
 
 ## Video
 
-<iframe class="yt-video" width="816" height="459" src="https://www.youtube.com/embed/yExijeK0X3U" title="Instalar Homebrew en GNU/Linux" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube id="yExijeK0X3U" >}}
 
 ## Comandos
 

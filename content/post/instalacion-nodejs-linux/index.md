@@ -24,7 +24,7 @@ Para poder realizar esto vamos a necesitar instalar previamente _Homebrew_, pero
 
 Ya teniendo homebrew instalado correctamente podemos proceder a instalarlo, para que puedas seguirlo paso a paso dejo el video a continuación:
 
-<iframe class="yt-video" width="816" height="459" src="https://www.youtube.com/embed/wtGZngSiwn4" title="Instalar NodeJS en GNU/Linux (Homebrew)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube id="wtGZngSiwn4" >}}
 
 El comando utilizado para esta ocasión es el que dejaré a continuación. En caso de querer pegar en la terminal de windows se suele hacer con ctrl+v sino podes utilizar el mouse con click derecho -> pegar dependiendo de tu terminal:
 
