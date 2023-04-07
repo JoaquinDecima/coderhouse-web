@@ -2,12 +2,12 @@ baseurl: https://example.com
 languageCode: es-AR
 theme: pato-coderhouse
 paginate: 5
-title: Pato CoderHouse
+title: Profe Pato
 
 languages:
     es:
         languageName: Español
-        title: Pato CoderHouse
+        title: Profe Pato
         description: Todo el contenido complementario para tus clases de CoderHouse en un solo lugar
         weight: 1
 
