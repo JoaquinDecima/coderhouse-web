@@ -8,7 +8,7 @@ hugo
 # navigate into the build output directory
 cd public
 
-# echo 'vasak.net.ar' >CNAME
+echo 'profepato.vasak.net.ar' >CNAME
 
 git init
 git add -A
