@@ -2,21 +2,20 @@
 author = "Pato"
 title = "Install MongoDB en Linux"
 date = "2023-04-19"
-description = "Vamos a ver una forma simple de instalar MongoDB en cuaqluier GNU/Linux usando tu gestor de paquetes favorito"
+description = "Vamos a ver una forma simple de instalar MongoDB en cuaqluier GNU/Linux usando tu gestor de paquetes"
 tags = [
-    "nodejs",
-    "linux",
-    "mongodb"
+    "mongodb",
+    "linux"
 ]
 categories = [
     "guia",
     "linux",
 ]
 series = ["Linux", "Guia"]
-image = "https://i.postimg.cc/fWxJf8Fq/image.png"
+image = "https://webimages.mongodb.com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png"
 +++
 
-Hoy vamos a ver como realizar la instalacion de **MongoDB** en nuestra distribucion de GNU/Linux preferida.
+Vamos a ver como realizar la instalacion de **MongoDB** en nuestra distribucion de GNU/Linux preferida.
 
 ## Video
 
@@ -112,7 +111,3 @@ Una vez creado el archivo procedemos a instalar el paquete de la siguiente maner
 ```zsh
 sudo yum install -y mongodb-org
 ```
-
----
-
-Fuente: [https://www.mongodb.com/docs/manual/administration/install-on-linux/](https://www.mongodb.com/docs/manual/administration/install-on-linux/)
