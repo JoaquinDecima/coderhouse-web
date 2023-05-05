@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>windows on Profe Pato</title>
+        <link>https://profepato.vasak.net.ar/tags/windows/</link>
+        <description>Recent content in windows on Profe Pato</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es-AR</language>
+        <lastBuildDate>Mon, 10 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://profepato.vasak.net.ar/tags/windows/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Instalar GIT en Windows (winget)</title>
+        <link>https://profepato.vasak.net.ar/post/instalar-git-en-windows-winget/</link>
+        <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://profepato.vasak.net.ar/post/instalar-git-en-windows-winget/</guid>
+        <description>&lt;img src="https://i.postimg.cc/cJ7nmsqW/gitwin.png" alt="Featured image of post Instalar GIT en Windows (winget)" /&gt;&lt;p&gt;hoy vamos a ver como instalar &lt;strong&gt;git&lt;/strong&gt; en &lt;strong&gt;Windows&lt;/strong&gt; utilizando &lt;em&gt;winget&lt;/em&gt; el gestor de paquetes de microsoft.&lt;/p&gt;
+&lt;h2 id=&#34;video&#34;&gt;video&lt;/h2&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/LKnMeKqkjfk&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;comando&#34;&gt;Comando&lt;/h2&gt;
+&lt;p&gt;Para que sea mucho mas facil te dejo el comando para que puedas copiar y pegar en tu terminal&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;winget install -e --id Git.Git
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>Instalar Visual Studio Code en Windows (winget)</title>
+        <link>https://profepato.vasak.net.ar/post/instalar-visual-studio-code-en-windows-winget/</link>
+        <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://profepato.vasak.net.ar/post/instalar-visual-studio-code-en-windows-winget/</guid>
+        <description>&lt;img src="https://i.postimg.cc/G3YY822C/win10vscode.png" alt="Featured image of post Instalar Visual Studio Code en Windows (winget)" /&gt;&lt;p&gt;Hoy vamos a ver como realizar la instalación de &lt;strong&gt;Visual Studio Code&lt;/strong&gt; de una forma muy simple y rápida en &lt;strong&gt;Windows&lt;/strong&gt; (10 o 11) utilizando &lt;em&gt;winget&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+&lt;p&gt;Para que puedas seguirlo paso a paso dejo el video a continuación:&lt;/p&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/LjYbsXcXilA&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;El comando utilizado para esta ocasión es el que dejaré a continuación. En caso de querer pegar en la terminal de windows se suele hacer con ctrl+v sino podes utilizar el mouse con click derecho -&amp;gt; pegar dependiendo de tu terminal:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;winget install -e --id Microsoft.VisualStudioCode
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>Instalar NodeJS en Windows (winget)</title>
+        <link>https://profepato.vasak.net.ar/post/instalar-nodejs-en-windows-winget/</link>
+        <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://profepato.vasak.net.ar/post/instalar-nodejs-en-windows-winget/</guid>
+        <description>&lt;img src="https://i.postimg.cc/d14zdpJB/image.png" alt="Featured image of post Instalar NodeJS en Windows (winget)" /&gt;&lt;p&gt;Hoy vamos a ver como realizar la instalación de &lt;strong&gt;NodeJS&lt;/strong&gt; de una forma muy simple y rápida utilizando &lt;em&gt;winget&lt;/em&gt;. De esta forma simple y rápida podemos obtener cualquier versión de &lt;strong&gt;NodeJS&lt;/strong&gt; y &lt;strong&gt;NPM&lt;/strong&gt; directamente desde &lt;em&gt;winget&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+&lt;p&gt;Para que puedas seguirlo paso a paso dejo el video a continuación:&lt;/p&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/3WT-dPSifOw&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;El comando utilizado para esta ocasión es el que dejaré a continuación. En caso de querer pegar en la terminal de windows se suele hacer con ctrl+v sino podes utilizar el mouse con click derecho -&amp;gt; pegar dependiendo de tu terminal:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;winget install -e --id OpenJS.NodeJS
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
