@@ -6,13 +6,21 @@
         <description>Recent content in Categories on Profe Pato</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>es-AR</language>
-        <lastBuildDate>Fri, 05 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://profepato.vasak.net.ar/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://profepato.vasak.net.ar/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Guia</title>
         <link>https://profepato.vasak.net.ar/categories/guia/</link>
-        <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
         
         <guid>https://profepato.vasak.net.ar/categories/guia/</guid>
         <description>&lt;img src="https://static.vecteezy.com/system/resources/previews/010/998/137/original/stylized-3d-color-swatches-illustration-free-png.png" alt="Featured image of post Guia" /&gt;</description>
+        </item>
+        <item>
+        <title>Windows</title>
+        <link>https://profepato.vasak.net.ar/categories/windows/</link>
+        <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://profepato.vasak.net.ar/categories/windows/</guid>
+        <description>&lt;img src="https://icones.pro/wp-content/uploads/2021/06/logo-windows-bleu.png" alt="Featured image of post Windows" /&gt;</description>
         </item>
         <item>
         <title>MacOS</title>
@@ -29,14 +37,6 @@
         
         <guid>https://profepato.vasak.net.ar/categories/linux/</guid>
         <description>&lt;img src="https://cdn-icons-png.flaticon.com/512/518/518713.png" alt="Featured image of post GNU/Linux" /&gt;</description>
-        </item>
-        <item>
-        <title>Windows</title>
-        <link>https://profepato.vasak.net.ar/categories/windows/</link>
-        <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
-        
-        <guid>https://profepato.vasak.net.ar/categories/windows/</guid>
-        <description>&lt;img src="https://icones.pro/wp-content/uploads/2021/06/logo-windows-bleu.png" alt="Featured image of post Windows" /&gt;</description>
         </item>
         <item>
         <title>JavaScript</title>

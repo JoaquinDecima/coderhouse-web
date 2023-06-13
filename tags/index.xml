@@ -6,7 +6,23 @@
         <description>Recent content in Tags on Profe Pato</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>es-AR</language>
-        <lastBuildDate>Fri, 05 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://profepato.vasak.net.ar/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://profepato.vasak.net.ar/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>mongodb</title>
+        <link>https://profepato.vasak.net.ar/tags/mongodb/</link>
+        <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://profepato.vasak.net.ar/tags/mongodb/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>windows</title>
+        <link>https://profepato.vasak.net.ar/tags/windows/</link>
+        <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://profepato.vasak.net.ar/tags/windows/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>brew</title>
         <link>https://profepato.vasak.net.ar/tags/brew/</link>
         <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
@@ -23,14 +39,6 @@
         <description></description>
         </item>
         <item>
-        <title>mongodb</title>
-        <link>https://profepato.vasak.net.ar/tags/mongodb/</link>
-        <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
-        
-        <guid>https://profepato.vasak.net.ar/tags/mongodb/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>linux</title>
         <link>https://profepato.vasak.net.ar/tags/linux/</link>
         <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
@@ -44,14 +52,6 @@
         <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
         
         <guid>https://profepato.vasak.net.ar/tags/git/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>windows</title>
-        <link>https://profepato.vasak.net.ar/tags/windows/</link>
-        <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
-        
-        <guid>https://profepato.vasak.net.ar/tags/windows/</guid>
         <description></description>
         </item>
         <item>

@@ -3,15 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://profepato.vasak.net.ar/</loc>
-    <lastmod>2023-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://profepato.vasak.net.ar/tags/brew/</loc>
-    <lastmod>2023-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://profepato.vasak.net.ar/categories/</loc>
-    <lastmod>2023-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://profepato.vasak.net.ar/categories/guia/</loc>
+    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://profepato.vasak.net.ar/post/install-mongodb-en-windows/</loc>
+    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://profepato.vasak.net.ar/tags/mongodb/</loc>
+    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://profepato.vasak.net.ar/post/</loc>
+    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://profepato.vasak.net.ar/tags/</loc>
+    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://profepato.vasak.net.ar/tags/windows/</loc>
+    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://profepato.vasak.net.ar/categories/windows/</loc>
+    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://profepato.vasak.net.ar/tags/brew/</loc>
     <lastmod>2023-05-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://profepato.vasak.net.ar/post/install-mongodb-en-macos-homebrew/</loc>
@@ -21,15 +39,6 @@
     <lastmod>2023-05-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://profepato.vasak.net.ar/categories/macos/</loc>
-    <lastmod>2023-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://profepato.vasak.net.ar/tags/mongodb/</loc>
-    <lastmod>2023-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://profepato.vasak.net.ar/post/</loc>
-    <lastmod>2023-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://profepato.vasak.net.ar/tags/</loc>
     <lastmod>2023-05-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://profepato.vasak.net.ar/categories/linux/</loc>
@@ -45,12 +54,6 @@
     <lastmod>2023-04-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://profepato.vasak.net.ar/post/instalar-git-en-windows-winget/</loc>
-    <lastmod>2023-04-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://profepato.vasak.net.ar/tags/windows/</loc>
-    <lastmod>2023-04-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://profepato.vasak.net.ar/categories/windows/</loc>
     <lastmod>2023-04-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://profepato.vasak.net.ar/tags/winget/</loc>

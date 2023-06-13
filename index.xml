@@ -6,7 +6,63 @@
         <description>Recent content on Profe Pato</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>es-AR</language>
-        <lastBuildDate>Fri, 05 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://profepato.vasak.net.ar/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://profepato.vasak.net.ar/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Install MongoDB en Windows</title>
+        <link>https://profepato.vasak.net.ar/post/install-mongodb-en-windows/</link>
+        <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://profepato.vasak.net.ar/post/install-mongodb-en-windows/</guid>
+        <description>&lt;img src="https://webimages.mongodb.com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png" alt="Featured image of post Install MongoDB en Windows" /&gt;&lt;p&gt;Vamos a ver como realizar la instalacion de &lt;strong&gt;MongoDB&lt;/strong&gt; en Windows (ya sea 10 o 11) con winget desde nuestra terminal.&lt;/p&gt;
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+&lt;p&gt;En el video sigo los pasos para la instalacion utilizando winget para realizar la instalacion.&lt;/p&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/jRX23FDGCW4&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;comandos-utilizados&#34;&gt;Comandos Utilizados&lt;/h2&gt;
+&lt;p&gt;Este es el comendo que utilizamos para realizar la instalacion de MongoDB en Windows 10 o 11 utilizando winget:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;winget install -e --id MongoDB.Server
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;ejecute-mongodb-community-edition-desde-la-terminal&#34;&gt;Ejecute MongoDB Community Edition desde la terminal&lt;/h2&gt;
+&lt;p&gt;Para ejecutar MongoDB (o mongo) desde la terminal de Windows, debemos ejecutar el siguiente comando para crear la carpeta donde se guardaran los datos de la base de datos:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; C:&lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;se&#34;&gt;&lt;/span&gt;md &lt;span class=&#34;s2&#34;&gt;&amp;#34;\data\db&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Luego ejecutamos el siguiente comando para ejecutar mongo:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;C:\Program Files\MongoDB\Server\6.0\bin\mongod.exe&amp;#34;&lt;/span&gt; --dbpath&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;c:\data\db&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;blockquote&gt;
+&lt;p&gt;En este caso usamos &lt;code&gt;c:\data\db&lt;/code&gt; pero pueden elegir el directorio que quieran&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;agregar-binarios-de-mongodb-a-la-path-del-sistema&#34;&gt;Agregar binarios de MongoDB a la PATH del sistema&lt;/h2&gt;
+&lt;p&gt;Si agrega &lt;code&gt;C:\Archivos de programa\MongoDB\Server\6.0\bin&lt;/code&gt; a su PATH del sistema, puede omitir la ruta completa a los archivos binarios del servidor MongoDB. También debe agregar la ruta a &lt;code&gt;mongosh&lt;/code&gt; si aún no lo ha hecho.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Install MongoDB en MacOS (homebrew)</title>
         <link>https://profepato.vasak.net.ar/post/install-mongodb-en-macos-homebrew/</link>
         <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
